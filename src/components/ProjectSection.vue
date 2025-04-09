@@ -66,7 +66,7 @@ const Projects = ref([
     {
         id: 1,
         category: 'web development',
-        image: 'src/assets/zealsgg.JPG',
+        image: 'src/assets/zealsgg.jpg',
         title: 'Zeals Esports',
         description: 'Zeal Esports is a Filipino esports organization, known for its involvement in the VALORANT scene, and has a history of competing in major tournaments like VCT Stage 1. ',
         technologies: ['Wordpress'],
@@ -76,7 +76,7 @@ const Projects = ref([
     {
         id: 2,
         category: 'web development',
-        image: 'src/assets/foresight.JPG',
+        image: 'src/assets/foresight.jpg',
         title: 'Foresight.ph',
         description: 'Esports website',
         technologies: ['Vue.js 2', 'Vuetify 2', 'Node.js', 'Xampp',],
