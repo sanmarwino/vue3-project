@@ -48,7 +48,7 @@
                     <div class="flex w-full h-96 min-h-[24rem] lg:min-h-[none] lg:w-full lg:h-full items-center relative">
                         <div class="absolute z-0 top-1/2 -translate-y-1/2 w-5/6 right-0 h-[calc(80%+20px)] bg-gradient-to-tr opacity-25 from-[#123458] to-[#D4C9BE] blur-2xl"></div>
                         <div class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-40 sm:right-16 rounded-full shadow-lg border border-primary w-full sm:w-3/4 md:w-1/2 lg:w-[550px]">
-                            <img src="@/assets/profile_pic.jpg" alt="Profile pic" width="500" height="auto" loading="lazy"
+                            <img src="/src/assets/profile_pic.jpg" alt="Profile pic" width="500" height="auto" loading="lazy"
                             class="w-full h-full rounded-full object-cover"
                             >
                              <div class="text-center pt-5">
