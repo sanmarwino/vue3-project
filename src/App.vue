@@ -1,6 +1,6 @@
 <template>
  <div class="bg-[#030303] min-h-screen">
-  <Navbar />
+  <Header />
   <HeroSection />
   <AboutSection />
   <ExperienceAndSkill />
@@ -14,7 +14,7 @@
 <script setup>
 import { defineAsyncComponent } from 'vue';
 
-const Navbar = defineAsyncComponent(() =>import('./components/Navbar.vue'))
+const Header = defineAsyncComponent(() =>import('./components/Header.vue'))
 const HeroSection = defineAsyncComponent(() =>import('./components/HeroSection.vue'))
 const AboutSection = defineAsyncComponent(() =>import('./components/AboutSection.vue'))
 const ExperienceAndSkill = defineAsyncComponent(() =>import('./components/ExperienceAndSkill.vue'))
