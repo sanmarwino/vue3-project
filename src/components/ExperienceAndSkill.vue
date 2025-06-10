@@ -16,6 +16,7 @@
                     <ul class="list-disc list-inside space-y-1 text-white text-lg font-mono">
                     <li>Javascript</li>
                     <li>Vue.js</li>
+                    <li>React.js</li>
                     <li>Tailwindcss</li>
                     <li>HTML with CSS</li>
                     <li>Wordpress</li>
@@ -28,6 +29,7 @@
                     <li>PostgreSQL</li>
                     <li>MongoDB</li>
                     <li>Git Version Control</li>
+                    <li>Selenium Automation Tester</li>
                     </ul>
                     </div>
                 </div>

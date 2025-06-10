@@ -14,7 +14,7 @@
                 data-aos="fade-right">
                 <div v-for="project in filteredProjects" :key="project.id">
                     <div class="h-52 md:h-[24rem] rounded-t-xl relative group bg-[center_top_1rem]"
-                    :style="{ backgroundImage: 'url(' + project.image + ')', backgroundSize: 'cover' }">                    
+                    :style="{ backgroundImage: 'url(' + project.image + ')', backgroundSize: 'cover'  }">                    
                     <div class="overlay items-center justify-center absolute top-0 left-0 w-full h-full bg-[#181818] bg-opacity-0
                     hidden group-hover:flex group-hover:bg-opacity-80 transition-all duration-500
                     ">
